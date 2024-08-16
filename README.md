@@ -63,6 +63,6 @@ a better programmer overall. If you’re also learning C or just curious, feel f
 browse through the code!
 
 If you notice any mistakes or have suggestions, I’m all ears! I appreciate any feedback so
-don't hesitate to [open an Issue on GitHub](https://github.com/pablocru/hello-c).
+don't hesitate to [open an Issue on GitHub](https://github.com/pablocru/hello-c/issues).
 
 Happy coding! 😊
