@@ -1,4 +1,4 @@
-# Exercise 5: Understanding Pointers
+# Exercise 4: Understanding Pointers
 
 Write a C program that:
 

@@ -1,4 +1,4 @@
-# Exercise 6: Pointer Arithmetic
+# Exercise 5: Pointer Arithmetic
 
 In this exercise, you'll explore pointer arithmetic by working with arrays. This will help
 you understand how pointers can be used to navigate through an array in memory.

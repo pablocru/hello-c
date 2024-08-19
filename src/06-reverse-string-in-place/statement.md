@@ -1,4 +1,4 @@
-# Exercise 4: Reverse a String in place
+# Exercise 6: Reverse a String in place
 
 Write a C program that takes a string and reverses its characters. The program should:
 
