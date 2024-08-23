@@ -1,4 +1,4 @@
-# Exercise 1: "Hello, World!" with a Twist
+# "Hello, World!" with a Twist
 
 ## Objective
 

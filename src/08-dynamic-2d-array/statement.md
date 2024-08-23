@@ -1,4 +1,4 @@
-# Exercise 3: Dynamic 2D Array Manipulation
+# Dynamic 2D Array Manipulation
 
 You need to create a program that dynamically allocates memory for a 2D array (a matrix)
 based on user input for the number of rows and columns. Then, you will populate the matrix

@@ -1,4 +1,4 @@
-# Exercise 7: Pointers, Functions, and Dynamic Memory Allocation
+# Pointers, Functions, and Dynamic Memory Allocation
 
 This exercise will challenge you to work with pointers, functions, and dynamic memory
 allocation using `malloc`. You’ll be required to create a program that dynamically

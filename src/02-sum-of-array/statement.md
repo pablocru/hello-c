@@ -1,4 +1,4 @@
-# Exercise 2: Calculate the Sum of an Array
+# Calculate the Sum of an Array
 
 Write a C program that calculates the sum of all the elements in an array of integers. The
 program should

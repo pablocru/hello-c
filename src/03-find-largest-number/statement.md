@@ -1,4 +1,4 @@
-# Exercise 3: Find the Largest Number in an Array
+# Find the Largest Number in an Array
 
 Write a C program that finds and prints the largest number in a given array of integers.
 The program should:
